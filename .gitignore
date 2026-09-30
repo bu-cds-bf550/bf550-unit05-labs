@@ -1,0 +1,19 @@
+# Files your tools write while you work. They are not part of your work, and leaving
+# them out of git keeps your commits readable. The same file ships with every set and
+# every unit of labs.
+
+# Jupyter writes these every time you save a notebook
+.ipynb_checkpoints/
+
+# Python writes these the first time a module is imported
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system clutter
+.DS_Store
+.vscode/
+*.swp
+
+# A local environment directory, if you make one. The bf550 environment lives in conda,
+# not in the repository.
+.venv/
