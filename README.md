@@ -1,7 +1,5 @@
 # BF550 · Unit 5 labs
 
-> ⚠️ **Under construction.** These labs are drafted but not yet reviewed; they may change before their meeting.
-
 The lab notebook for unit 5, one part for each of the unit's class meetings.
 You work through it during lab time, with instructors and TAs in the room, and
 carry on in the same notebook at the next meeting if you do not finish a part.
